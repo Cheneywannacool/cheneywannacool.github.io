@@ -546,6 +546,14 @@ Primary use:	Showcase Portfolio
 		box-sizing:border-box;
 	}
 	
+	.container-about {
+		max-width:1580px;
+		width:100%;
+		margin:0 auto;
+		padding: 0 230px;
+		box-sizing:border-box;
+	}
+
 	.small .container {
 		max-width:900px;
 		width:100%;
@@ -676,6 +684,10 @@ Primary use:	Showcase Portfolio
 	
 	.row_padding_top {
 		padding-top:120px;
+	}
+
+	.row_no_padding_top {
+		padding-top:0px;
 	}
 	
 	.row_padding_bottom {
