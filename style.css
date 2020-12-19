@@ -1435,7 +1435,7 @@ Primary use:	Showcase Portfolio
 	
 	.hero-subtitle {
 		color:#fff;
-		font-size:28px;
+		font-size:20px;
 		font-weight:600;
 		line-height:30px;
 		margin-top: 20px;
@@ -2008,7 +2008,9 @@ Primary use:	Showcase Portfolio
 		text-align: center;
 	}
 	
-	.youtube{padding-bottom: 57%;position: relative;}
+	.youtube{padding-bottom: 57%;
+		padding-left:10px;
+		position: relative;}
     .elementor-video-iframe{max-width: 100%;width: 100%;border: none;position: absolute;height: 100%;}
 }
 
