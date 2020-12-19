@@ -1410,10 +1410,10 @@ Primary use:	Showcase Portfolio
 	}
 	
 	.hero-title {
-		color:#000;
+		color:#fff;
 		position:relative;
 		z-index:10;		
-		font-size:60px;
+		font-size:90px;
 		font-weight:700;
 		line-height:70px;
 		margin-left:-6px;
@@ -1434,6 +1434,7 @@ Primary use:	Showcase Portfolio
 	}
 	
 	.hero-subtitle {
+		color:#000;
 		font-size:14px;
 		font-weight:600;
 		line-height:30px;
