@@ -170,8 +170,8 @@
 		background-size:cover;
 		background-position:center center;
 		background-repeat:no-repeat;
-		width:110%;
-		height: 110%;
+		width: auto;
+		height: auto;
 		position:absolute;
 		z-index:100;
 		cursor:pointer;
