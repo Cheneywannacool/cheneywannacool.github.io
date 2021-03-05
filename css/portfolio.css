@@ -139,10 +139,10 @@
 		position: relative;
 		box-sizing: border-box;
 		z-index: 0;
-		width: 30%;
+		width: 40%;
 		height: 38vw;
 		float: left;
-		margin: 80px 10%;
+		margin: 60px 10%;
 	}
 	
 	.item-wrap {
@@ -154,7 +154,7 @@
 		transform: translateY(200px);
 	}
 	
-	.wide a {
+	.itemwide a {
 		height:50%;
 		top:25%;
 	}
