@@ -873,15 +873,6 @@
 		position: fixed;
 	}
 	
-	.row{
-		display: flex;
-		flex-wrap: wrap;
-	}
-	.col-md-6{
-        flex: 0 0 50%;
-        position: relative;
-        width: 100%;
-	}
 	
 /*--------------------------------------------------
 	02. Page Overlay
