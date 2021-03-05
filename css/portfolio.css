@@ -328,8 +328,8 @@
 		position:relative;
 		top:0px;
 		left:0px;
-		-webkit-transform: translateY(20px);
-		transform: translateY(20px);
+		-webkit-transform: translateY(50px);
+		transform: translateY(50px);
 	}
 	
 	.big-title-caption .item-caption .item-cat {
