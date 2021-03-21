@@ -197,7 +197,7 @@ fieldset {
     background-size: cover;
     z-index: 1;
 }
-.background-image {
+.background-image1 {
     position: relative;
     height: 100%;
     width: 100%;
@@ -206,7 +206,7 @@ fieldset {
     -webkit-background-size: cover;
     -o-background-size: cover;
     z-index: 1;
-   
+    margin-bottom:100px;
 
 }
 
