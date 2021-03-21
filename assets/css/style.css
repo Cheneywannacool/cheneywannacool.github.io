@@ -206,7 +206,7 @@ fieldset {
     -webkit-background-size: cover;
     -o-background-size: cover;
     z-index: 1;
-    margin-bottom:100px;
+    padding-bottom:100px;
 
 }
 
