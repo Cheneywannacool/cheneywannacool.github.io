@@ -171,7 +171,7 @@ fieldset {
 .welcome-image-area {
     position: relative;
     height: 100%;
-    background: url(../assets/images/y8xqwg.jpg);
+    background: url(../assets/images/bg/y8xqwg.jpg);
     background-size: cover;
     z-index: 1;
 }
