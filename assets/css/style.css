@@ -269,6 +269,15 @@ fieldset {
     font-size: 18px;
 }
 
+.logoa a {
+    display: block;
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight: 900;
+    font-size: 18px;
+}
+
 .mainmenu .navbar-nav li a {
     color: #fff;
     text-transform: uppercase;
@@ -355,10 +364,10 @@ fieldset {
     font-size: 20px;
     line-height:110%;
     display: inline-block;
-    padding: 2px 50px;
+    padding: 10px 30px;
     color: #000;
     font-family: 'Montserrat', sans-serif;
-    padding-bottom: 20px; 
+   
 }
 
 .about-text p {
