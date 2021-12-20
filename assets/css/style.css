@@ -161,7 +161,11 @@ fieldset {
 * 03.HOMEPAGE CSS STYLE
 * ----------------------------------------------------------------------------------------
 */
-
+.gif-img{
+  display: inline-block;
+  height: auto;
+  max-width: 100%
+}
 .welcome-area {
     height: 100%;
 }
@@ -171,8 +175,7 @@ fieldset {
 .welcome-image-area {
     position: relative;
     height: 100%;
-    /*background-color: black;*/
-    background:url(../images/rprojects/intro.gif)
+    background-color: black;
     background-size: cover;
     z-index: 1;
 }
