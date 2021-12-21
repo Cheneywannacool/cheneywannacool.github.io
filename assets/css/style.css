@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 a {
@@ -161,6 +161,7 @@ fieldset {
 * 03.HOMEPAGE CSS STYLE
 * ----------------------------------------------------------------------------------------
 */
+
 .gif-img{
   display: inline-block;
   height: auto;
@@ -358,10 +359,11 @@ fieldset {
     font-weight: 1600;
     font-size: 6vh;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
     /*text-transform: uppercase;*/
 }
 
-.about-text h3 {
+.about-text h5 {
     margin-top: 0;
     margin-bottom: 10px;
     font-weight: 400;
@@ -370,8 +372,11 @@ fieldset {
     display: inline-block;
     padding: 10px 30px;
     color: #000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 
+}
+.UW{
+  color:#3e058d
 }
 
 .about-text p {
