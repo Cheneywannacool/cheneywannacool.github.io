@@ -35,7 +35,7 @@ a {
     -webkit-transition: all 0.4s;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #000;
 }
 
@@ -375,8 +375,8 @@ fieldset {
     font-family: 'Open Sans', sans-serif;
 
 }
-.UW{
-  color:#3e058d
+.UW {
+  color:#3e058d;
 }
 
 .about-text p {
