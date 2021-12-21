@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -35,7 +35,7 @@ a {
     -webkit-transition: all 0.4s;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
     color: #000;
 }
 
@@ -359,7 +359,7 @@ fieldset {
     font-weight: 1600;
     font-size: 6vh;
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
     /*text-transform: uppercase;*/
 }
 
@@ -372,7 +372,7 @@ fieldset {
     display: inline-block;
     padding: 10px 30px;
 
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 
 }
 .UW {
