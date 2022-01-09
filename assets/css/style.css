@@ -76,6 +76,9 @@ fieldset {
 .section-padding {
     padding: 70px 0px;
 }
+.section-padding-about {
+    padding: 0px 0px;
+}
 
 .section-title {
     text-align: center;
