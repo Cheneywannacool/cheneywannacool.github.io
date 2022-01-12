@@ -258,7 +258,7 @@ fieldset {
     vertical-align: middle;
 }
 
-.display-table-cell h1{
+.header-text h1{
     display: table-cell;
     vertical-align: middle;
     color: white;
