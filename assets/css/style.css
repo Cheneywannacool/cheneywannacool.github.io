@@ -557,7 +557,7 @@ ul.work li.active {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    font-family: 'Lato', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     -webkit-transition: all 0.4s ease-out;
     transition: all 0.4s ease-out;
 }
